@@ -1,2 +1,2 @@
-# my_CV.html
+# my_CV
 this is my CV

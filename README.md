@@ -1,2 +1,2 @@
-# my-CV
+# my_CV
 this is my CV
